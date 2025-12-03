@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mghelichkhani.github.io/interactive-cv",
+  "homepage": "https://mghelichkhani.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
